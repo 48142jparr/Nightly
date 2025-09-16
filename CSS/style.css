@@ -1,22 +1,38 @@
+/* Styling for the logo image inside the container div */
 div.container img
 {
+	/* Add spacing from top and left edges */
 	padding-top: 20px;
 	padding-left: 20px;
+	/* Set logo width to 10% of parent container */
 	width: 10%;
 }
+
+/* Styling for the main heading (NIGHT MODE title) */
 div.container h1
 {
+	/* Add underline decoration to the title */
 	text-decoration: underline;
 }
+
+/* Styling for when night mode is ON (active state) */
 #modeOn
 {
+	/* Green color indicates active/on state */
 	color: green;
+	/* Larger font size for prominence */
 	font-size: 22px;
+	/* Bold text for emphasis */
 	font-weight: bold;
 }
+
+/* Styling for when night mode is OFF (inactive state) */
 #modeOff
 {
+	/* Red color indicates inactive/off state */
 	color: red;
+	/* Larger font size for prominence */
 	font-size: 22px;
+	/* Bold text for emphasis */
 	font-weight: bold;
 }

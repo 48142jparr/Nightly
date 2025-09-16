@@ -4,7 +4,8 @@
 		<!-- Link to external CSS stylesheet for styling -->
 		<link rel="stylesheet" href="css/style.css" type="text/css">
 		
-		<!-- Include jQuery library for AJAX functionality -->
+		<!-- Include jQuery library v1.11.2 for AJAX functionality -->
+		<!-- jQuery provides the $.post() method used in script.js for server communication -->
 		<script type="text/javascript" src="./js/jquery.js"></script>
 		
 		<!-- Include custom JavaScript file with application logic -->

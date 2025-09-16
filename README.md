@@ -1,5 +1,5 @@
 # Night Mode Application
-
+# Credit to Dan Arguetta for much of the core coding.
 A simple PHP web application for managing night mode settings with a clean web interface.
 
 ## Overview

@@ -1,7 +1,7 @@
 <?php
 
-$myfile = fopen("mode.txt", "r");
-echo fread($myfile, filesize("mode.txt"));
+$myfile = fopen(__DIR__ . "/mode.txt", "r");
+echo fread($myfile, filesize(__DIR__ . "/mode.txt"));
 fclose($myfile);
 
 ?>

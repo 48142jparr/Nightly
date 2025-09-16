@@ -1,5 +1,7 @@
 # Night Mode Application
 # Credit to Dan Arguetta for much of the core coding.
+# I've made contributions in error handling enhancements and adding a AWS Cloud Server services
+# for hosting the html file.
 A simple PHP web application for managing night mode settings with a clean web interface.
 
 ## Overview
